@@ -1,0 +1,2 @@
+# Actividad Práctica Profesionalizante 1: Tutorial de Django
+Este repositorio contiene la resolución de la actividad de Práctica profesionalizante 1 de la carrera de Tecnicatura de Ciencia de Datos e Inteligencia Artificial del Instituto Superior de Formación Docente y Técnica de Misiones, la cual constaba de seguir el tutorial del framework de desarrollo web Django.
