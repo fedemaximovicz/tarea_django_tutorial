@@ -1,7 +1,11 @@
 li a {
-    color: green;
+    color: blue;
 }
 
-body {
+#polls-background {
+    padding: 2em;
+    width: 250px;
+    height: 250px;
     background: white url("images/polls-img.jpg") no-repeat;
+    background-size: cover;
 }
